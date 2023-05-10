@@ -5,7 +5,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/courses-ionio/sw/discussions/1487 | |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) | https://github.com/courses-ionio/sw/discussions/1736| |
 | 3 | Γραμμή εντολών (no systemd) | | |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
@@ -17,6 +17,13 @@
 
 # 1ο ΠΑΡΑΔΟΤΕΟ
 Στο μάθημα τεχνολογίας λογισμικού, έχω θέσει στόχους που αφορούν την εκμάθηση των βασικών αρχών της ανάπτυξης και σχεδίασης λογισμικού, καθώς και την εξοικείωση μου με το GitHub, το δημοφιλές εργαλείο διαχείρισης κώδικα. Θέλω να μάθω πώς να δημιουργώ και να διαχειρίζομαι ένα project στο GitHub, καθώς μελλοντικά θα το χρειαστώ για να επικοινωνώ με άλλους προγραμματιστές για να συνεργαστούμε σε ομάδες στο πλαίσιο ενός κοινού έργου. Επιπλέον, θέλω να βελτιώσω το προφίλ μου στο GitHub με projects που θα αναπτύξω κατά τη διάρκεια του μαθήματος και να αποκτήσω περισσότερες δεξιότητες και εμπειρία στη διαχείριση κώδικα.
+
+# 2ο ΠΑΡΑΔΟΤΕΟ
+Για το δεύτερο παραδοτέο που το ζητούμενο ήταν άσκηση γραμμής εντολών σε system md χρησιμοποίησα ubuntu και με τη χρήση
+του ntfy  έστειλα ειδοποίηση για ολοκλήρωση εντολής. 
+
+[asciinema link](https://asciinema.org/a/U1JjZYEV2fD0p32JgeNKoOdYD)
+![Screenshot from 2023-05-01 11-55-44](https://github.com/courses-ionio/sw/assets/73246246/a59b431f-b56e-48bc-8029-dd400dfc7b6e)
 
 
 
